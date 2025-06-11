@@ -25,10 +25,6 @@ I’m always eager to learn new things and improve my skills by keeping up with 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,express,nodejs,sqlite,git,mongodb&perline=8)](https://skillicons.dev)
 
-## Social Profiles
-<p align="left">
-<a href="https://twitter.com/mummadi_kavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mummadi_kavya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mummadi-kavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mummadi-kavya" height="30" width="40" /></a>
 
 ## GitHub Stats
 Public Repositories: **8** | Followers: **0** | Following: **0**
@@ -44,3 +40,13 @@ Public Repositories: **8** | Followers: **0** | Following: **0**
 - Created repository [mobius_strip](https://github.com/Kavya-Mummadi/mobius_strip)
 - Created branch `main` in [API-Testing-Console](https://github.com/Kavya-Mummadi/API-Testing-Console)
 - Created repository [API-Testing-Console](https://github.com/Kavya-Mummadi/API-Testing-Console)
+
+## Latest Blog Posts
+
+Currently, there are no blog posts available. Stay tuned for updates!
+
+## Social Profiles
+<p align="left">
+<a href="https://twitter.com/mummadi_kavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mummadi_kavya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mummadi-kavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mummadi-kavya" height="30" width="40" /></a>
+
