@@ -33,6 +33,11 @@ Public Repositories: **8** | Followers: **0** | Following: **0**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-Mummadi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kavya-Mummadi&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kavya-Mummadi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## Recent Activity
 
 - Pushed to [mobius_strip](https://github.com/Kavya-Mummadi/mobius_strip) - Update `mobius_strip.py`
