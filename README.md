@@ -32,5 +32,15 @@ I’m always eager to learn new things and improve my skills by keeping up with 
 
 ## GitHub Stats
 Public Repositories: **8** | Followers: **0** | Following: **0**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavya-Mummadi&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-Mummadi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recent Activity
+
+- Pushed to [mobius_strip](https://github.com/Kavya-Mummadi/mobius_strip) - Update `mobius_strip.py`
+- Created branch `master` in [mobius_strip](https://github.com/Kavya-Mummadi/mobius_strip)
+- Created repository [mobius_strip](https://github.com/Kavya-Mummadi/mobius_strip)
+- Created branch `main` in [API-Testing-Console](https://github.com/Kavya-Mummadi/API-Testing-Console)
+- Created repository [API-Testing-Console](https://github.com/Kavya-Mummadi/API-Testing-Console)
